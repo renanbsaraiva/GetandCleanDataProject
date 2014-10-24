@@ -1,2 +1,35 @@
 List of Variables in the tidy data set of the Samsung Galaxy S smartphone accelerometers
 
+Subject - Number of the participant
+Activity - Type of activity the participant made
+TrainorTest - A dummy variable indicating if the participant was in the train condition or in the test condition
+Mean of body acceleration time in X axis - The average of participant body acceleration in X axis
+Mean of body acceleration time in Y axis - The average of participant body acceleration in Y axis
+Mean of body acceleration time in Z axis - The average of participant body acceleration in Z axis
+Standard deviation of body acceleration time in X Axis - The standard deviation of participat body acceleration in X axis
+Standard deviation of body acceleration time in Y Axis - The standard deviation of participat body acceleration in Y axis
+Standard deviation of body acceleration time in Z Axis - The standard deviation of participat body acceleration in Z axis
+Mean of gravity acceleration in X axis - The average of participant gravity acceleration in X axis
+Mean of gravity acceleration in Y axis - The average of participant gravity acceleration in Y axis
+Mean of gravity acceleration in Z axis - The average of participant gravity acceleration in Z axis
+Standard deviation of gravity acceleration in X axis - The standard deviation of of participant gravity acceleration in X axis
+Standard deviation of gravity acceleration in Y axis - The standard deviation of of participant gravity acceleration in Y axis
+Standard deviation of gravity acceleration in Z axis - The standard deviation of of participant gravity acceleration in Z axis
+Mean of body acceleration Jerk time in X axis - The average of participant jerk acceleration in X axis
+Mean of body acceleration Jerk time in Y axis - The average of participant jerk acceleration in Y axis
+Mean of body acceleration Jerk time in Z axis - The average of participant jerk acceleration in Z axis
+Standard deviation of body acceleration Jerk time in X axis - The standard deviation of participant jerk acceleration in X axis
+Standard deviation of body acceleration Jerk time in Y axis - The standard deviation of participant jerk acceleration in Y axis
+Standard deviation of body acceleration Jerk time in Z axis - The standard deviation of participant jerk acceleration in Z axis
+Mean of body gyro time in X axis - The average of participant gyro in X axis
+Mean of body gyro time in Y axis - The average of participant gyro in Y axis
+Mean of body gyro time in Z axis - The average of participant gyro in Z axis
+Standard deviation of body gyro time in X axis - The standard deviation of participant gyro in X axis
+Standard deviation of body gyro time in Y axis - The standard deviation of participant gyro in Y axis
+Standard deviation of body gyro time in Z axis - The standard deviation of participant gyro in Z axis
+Mean of body gyro Jerk time in X axis - The average of participant jerk gyro in X axis
+Mean of body gyro Jerk time in Y axis - The average of participant jerk gyro in Y axis
+Mean of body gyro Jerk time in Z axis - The average of participant jerk gyro in Z axis
+Standard deviation of body gyro Jerk time in X axis - The standard deviation of participant jerk gyro in X axis
+Standard deviation of body gyro Jerk time in Y axis - The standard deviation of participant jerk gyro in Y axis
+Standard deviation of body gyro Jerk time in Z axis - The standard deviation of participant jerk gyro in Z axis
